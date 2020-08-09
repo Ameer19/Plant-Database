@@ -1,5 +1,5 @@
 // SJSU CMPE 138 Spring 2019 TEAM 12
-
+//Remove .txt to run
 // PlantCompany.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
 
